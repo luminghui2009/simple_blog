@@ -3,7 +3,7 @@
 ## 安装依赖
 - yarn add webpack  webpack-dev-server html-webpack-plugin --dev
 - yarn add react react-router-dom react-redux redux react-dom
-- yarn add koa mongoose
+- yarn add express mongoose
 - yarn add babel-core babel-loader babel-preset-es2015 babel-preset-stage-0 babel-preset-react css-loader file-loader less less-loader style-loader url-loader --dev
 ## 配置webpack
 ## 配置.babelrc语法编译
